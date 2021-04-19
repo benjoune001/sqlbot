@@ -1,0 +1,15 @@
+{
+    "sql": {
+        "host": "localhost",
+        "user": "root",
+        "password": "",
+        "database": "essentialmode"
+    },
+    "izinliRolid":"0",
+    "sunucuID":"0",
+    "wlLogID":"0",
+    "whitelistlogWebhookURL":"0",
+    "faturalogWebhookURL":"0",
+    "whitelistlogAktif":true,
+    "faturalogAktif":true
+}
